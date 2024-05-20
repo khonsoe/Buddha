@@ -1,12 +1,12 @@
 {"categories":[
 {"name":"Home", 
-  "image":"https://github.com/khonsoe/Buddha/blob/main/Buddha%20App%20icon/buddha.png"
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
 },
 {"name":"page1", 
-  "image":"https://github.com/khonsoe/Buddha/blob/main/Buddha%20App%20icon/buddha2.png"
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
 },
 {"name":"page2", 
-  "image":"https://github.com/khonsoe/Buddha/blob/main/Buddha%20App%20icon/buddha3.png"
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha3.png"
 }],
 
 "Home":[
