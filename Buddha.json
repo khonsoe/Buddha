@@ -2,10 +2,10 @@
 {"name":"Home", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
 },
-{"name":"page1", 
+{"name":"Book", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
 },
-{"name":"page2", 
+{"name":"Book 2", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha3.png"
 }],
 
@@ -151,13 +151,13 @@
 ရောင်ႏတောႏစွုံႏလင်ႏ ယိုသူစွိုး၊ စွစ်ꩻလေတိုး ဘွုံႏသွံခွင်ႏ၊ လေလင်းလင်ꩻ လိုꩻ/လူꩻခြာ၊ ဖြွဉ်ငါငါ စက္ကျာႏဝဠာႏ၊ ရောင်ႏသူပါꩻယို အဗွေႏ၊ ဝွေႏနေႏယျယို အတန်၊ ကျယံလွိုကြောင်းစင်ကယ်ႏ၊ အစိန္တေႏ ဝွေꩻဗွေႏယို၊ အွဉ်ႏအထို သွဉ်း သီးပင်ꩻ၊ သွဉ်းသီးရင်ꩻ ကတောင်ဖူꩻ၊ ကျွꩻတောႏမူႏ နင်းသွော့ဩ၊ သွဉ်းသီးစေား အီႏပူႏဇောႏ၊ တရာꩻတောႏ ဓမ္မငွါ၊ ဆွုံꩻမꩻပါ သွဉ်းသီးရင်ꩻ၊ လောဝ်းတောင်ꩻပြန်ႏ ဝုဲင်ႏရိုႏသေႏ၊ စိန္တေႏစောဝ်းဗွေႏ ကွိုနဲးဩ။","category":"Action"
 }],
   
-  "page1":[
+  "Book":[
 {"title":"ဓမ္မပဒ ၁","desc":"၁"
 },
 {"title":"ဓမ္မပဒ 2","desc":"၁"
 }],
   
-  "page2":[
+  "Book 2":[
 {"title":"အင်္ဂုတ္တိုရ်ႏ ၁","desc":"၁"
 },
 {"title":"အင်္ဂုတ္တိုရ်ႏ ၄","desc":"၄"
