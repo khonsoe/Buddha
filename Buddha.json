@@ -7,12 +7,6 @@
 },
 {"name":"page2", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
-},
-{"name":"page3", 
-  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
-},
-{"name":"page4", 
-  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lpg.png"
 }],
 
 "Home":[
@@ -169,19 +163,5 @@
 {"title":"အင်္ဂုတ္တိုရ်ႏ ၄","desc":"၄"
 }],
 
-  "page3":[
-{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁)","desc":"၁"
-},
-{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁၀)","desc":"၁၀"
-}],
-  
-  "page4":[
-{"title":"ပရိတ်ကြီး ၁၁သုတ်","desc":"1"
-},
-{"title":"ကုသိုလ်ႏဝင်ႏငေါဝ်းဆုꩻတောင်ꩻ","desc":"2"
-},
-{"title":"ပဒေႏသာႏ ဖတ်မတ်ခရာႏလိတ်စောင်ႏ","desc":"3"
-},
-{"title":"တရာꩻရောင်ႏခ ၁၂","desc":"တ"
 }]
 }
