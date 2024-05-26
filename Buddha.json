@@ -5,8 +5,13 @@
 {"name":"Book", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
 },
-{"name":"Book 2", 
+  {"name":"Book 2", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha3.png"
+},
+  
+{"name":"AKT", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha4.png"
+  
 }],
 
 "Home":[  
@@ -190,6 +195,13 @@
 သုဂတော လောကဝိဒူ
 အနုတ္တရော ပုရိသ ဒမ္မသာရထိ
 သတ္တာ ဒေဝမနုဿနံ ဗုဒ္ဓေါ ဘဂဝါ။"
-
+}],
+  
+  "AKT":[
+{"title":"ဓမ္မငဝ်းထီ ပူႏဇောႏအီ လိတ်စောင်ႏ","desc":"ပအိုဝ်ႏရဟန်ꩻတက္ကသိုလ်ႏကျောင်ꩻသား (ဗန်ကေောက်) စုရွမ်တဲမ်းထန်ႏ ဓမ္မစကျာႏတွမ်ႏ ငေါဝ်းထာꩻလူႏကျိုꩻအမျိုꩻမျိုꩻ
+သာႏသနာႏနေင်ႏ (၂၅၆၅) ဗာႏ၊ ကောႏဇာႏနေင်ႏ (၁၃၈၃) ဗာႏ၊ ခရစ်နေင်ႏ (2021)
+    
+      လိတ်စောင်ႏအလူႏတကာႏ
+      သာသနဟိတကာရီအစွိုꩻ၊ ပအိုဝ်ႏနင်ꩻမူႏလွောင်ႏဗူႏရေꩻအစွိုꩻ တွမ်ႏဒေႏသဗော့ꩻညာꩻအလူႏတကာႏ။"
 }]
 }
