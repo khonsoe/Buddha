@@ -8,7 +8,7 @@
 
   # စာလုံးကြီး နက်
 ## စာလုံးနဲနဲကြီး နက်
-![](ပုံလင့်)
+![](https://github.com/khonsoe/Buddha/blob/main/Buddha%20App%20icon/Buddha4.png)
 * အမြဲစက်
 # Heading 1
 ## Heading 2
