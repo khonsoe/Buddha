@@ -13,11 +13,11 @@
 }],
 
 "Home":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုးစုတောင်း","desc":"1234",
+  {"title":"ဩကာသ ဘုရားရှိခိုး စုတောင်း","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.txt",
   "category":"Action"},
 
-{"title":"ဘုရားဂုဏ်တော် ၉ ပါး","desc":"1234",
+{"title":"ဘုရား ဂုဏ်တော် ၉ ပါး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
     
@@ -25,7 +25,7 @@
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA(%E1%81%86)%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
 
-{"title":"သံဃာဂုဏ်တော် ၉ ပါး","desc":"1234",
+{"title":"သံဃာ ဂုဏ်တော် ၉ ပါး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
 
@@ -41,19 +41,19 @@
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A1%E1%80%9B%E1%80%95%E1%80%BA%E1%80%86%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.txt",
 "category":"Action"},
 
-{"title":"ငါးပါးသီလဆောက်တည်ပုံ","desc":"1234",
+{"title":"ငါးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%84%E1%80%AB%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
 "category":"Action"},
 
-{"title":"ရှစ်ပါးသီလဆောက်တည်ပုံ","desc":"1234",
+{"title":"ရှစ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9B%E1%80%BE%E1%80%85%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
 "category":"Action"},
 
-{"title":"ကိုးပါးသီလဆောက်တည်ပုံ","desc":"1234",
+{"title":"ကိုးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
 "category":"Action"},
 
-{"title":"ဆယ်ပါးသီလဆောက်တည်ပုံ","desc":"1234",
+{"title":"ဆယ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%86%E1%80%9A%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
 "category":"Action"},
 
@@ -61,7 +61,7 @@
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AC.txt",
 "category":"Action"},
 
-{"title":"နမက္ကာရဘုရားရှိခိုး","desc":"1234",
+{"title":"နမက္ကာရ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%94%E1%80%99%E1%80%80%E1%80%B9%E1%80%80%E1%80%AC%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%81%E1%80%AD%E1%80%AF%E1%80%B8.txt",
 "category":"Action"},
 
