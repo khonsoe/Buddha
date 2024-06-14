@@ -1,28 +1,28 @@
 <h5 style="text-align:center">နမက္ကာရဘုရားရှိခိုး</h5>
 
-<strong><hp style="text-align:center">၁။ သုဂတံ သုဂတံ သေဋ္ဌံ၊</p></strong><br>
-<hp style="text-align:center">(သုဂတံ သုဂတံ သစ်ထံ)</p>
+<strong><p style="text-align:center">၁။ သုဂတံ သုဂတံ သေဋ္ဌံ၊</p></strong><br>
+<p style="text-align:center">(သုဂတံ သုဂတံ သစ်ထံ)</p>
 <br><br>
-<strong><hp style="text-align:center">ကုသလံ ကုသလံ ဇဟံ။</p></strong><br>
-<hp style="text-align:center">(ကုသလံ ကုသလံ ဇဟံ)</p>
+<strong><p style="text-align:center">ကုသလံ ကုသလံ ဇဟံ။</p></strong><br>
+<p style="text-align:center">(ကုသလံ ကုသလံ ဇဟံ)</p>
 <br><br>
-<strong><hp style="text-align:center">အ-မတံ အ-မတံ သန္တံ၊</p></strong><br>
-<hp style="text-align:center">(အ-မတံ အ-မတံ သန်တံ)</p>
+<strong><p style="text-align:center">အ-မတံ အ-မတံ သန္တံ၊</p></strong><br>
+<p style="text-align:center">(အ-မတံ အ-မတံ သန်တံ)</p>
 <br><br>
-<strong><hp style="text-align:center">အ-သမံ အ-သမံ ဒဒံ။</p></strong><br>
-<hp style="text-align:center">(အ-သမံ အ-သမံ ဒဒံ)</p>
+<strong><p style="text-align:center">အ-သမံ အ-သမံ ဒဒံ။</p></strong><br>
+<p style="text-align:center">(အ-သမံ အ-သမံ ဒဒံ)</p>
 <br><br>
-<strong><hp style="text-align:center">သရဏံ သရဏံ လောကံ၊</p></strong><br>
-<hp style="text-align:center">(သရဏံ သရဏံ လောကံ)</p>
+<strong><p style="text-align:center">သရဏံ သရဏံ လောကံ၊</p></strong><br>
+<p style="text-align:center">(သရဏံ သရဏံ လောကံ)</p>
 <br><br>
-<strong><hp style="text-align:center">အ-ရဏံ အ-ရဏံ ကရံ။</p></strong><br>
-<hp style="text-align:center">(အ-ရနံ အ-ရနံ ကရံ)</p>
+<strong><p style="text-align:center">အ-ရဏံ အ-ရဏံ ကရံ။</p></strong><br>
+<p style="text-align:center">(အ-ရနံ အ-ရနံ ကရံ)</p>
 <br><br>
-<strong><hp style="text-align:center">အ-ဘယံ အ-ဘယံ ဌာနံ၊</p></strong><br>
-<hp style="text-align:center">(အ-ဘယံ အ-ဘယံ ထာနံ)</p>
+<strong><p style="text-align:center">အ-ဘယံ အ-ဘယံ ဌာနံ၊</p></strong><br>
+<p style="text-align:center">(အ-ဘယံ အ-ဘယံ ထာနံ)</p>
 <br><br>
-<strong><hp style="text-align:center">နာယယံ နာယကံ နမေ။</p></strong><br>
-<hp style="text-align:center">(နာယယံ နာယကံ နမေ)</p>
+<strong><p style="text-align:center">နာယယံ နာယကံ နမေ။</p></strong><br>
+<p style="text-align:center">(နာယယံ နာယကံ နမေ)</p>
 <br><br>
 <h5 style="text-align:center">မြန်မာပြန်</h5>
 <strong>ကောင်းသောစကားကိုလည်း ဆိုတော်မူတတ်သော၊ ကောင်းသောနိဗ္ဗာန်သို့လည်း ကြွသွားတော်မူတတ်သော၊ အထူးသဖြင့် ချီးမွမ်းအပ်တော်မူသော၊ ကုသိုလ်အကုသိုလ်ကို စွန့်တော်မူပြီးသော၊ သေခြင်းလည်းကင်းတော်မူသော၊ အမြိုက်အရသာနှင့်လည်း ပြည့်စုံတော်မူသော၊ ငြိမ်သက်စွာသော၊ အတုလည်းမရှိသော၊ အတုမရှိသော မဂ်ဖိုလ်နိဗ္ဗာန်ကို ပေးတော်မူတတ်သော၊ ကိုးကွယ်ရာလည်း ဖြစ်တော်မူသော၊ လောကကို သိတော်မူသော၊ ကိလေသာတည်းဟူသော မြူလည်း ကင်းစင်တော်မူပြီးသော၊ ကိလေသာမြူ၏ ကင်းခြင်းကိုပြုတော်မူတတ်သော၊ ဘေးလည်းမရှိသော၊ ဘေးမရှိသော နိဗ္ဗာန်အရပ်သို့ ပို့ဆောင်တော်မူတတ်သော၊ လူသုံးဦးတို့၏ အမှူးဖြစ်တော်မူသော မြတ်စွာဘုရားကို အကျွန်ုပ်သည် ရှိခိုးပါ၏။</strong><br>
