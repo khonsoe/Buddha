@@ -17,7 +17,7 @@
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.txt",
   "category":"Action"},
 
-  {"title":"ဘုရားဂုဏ်တော် ၉ ပါး","desc":"1234",
+{"title":"ဘုရားဂုဏ်တော် ၉ ပါး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
     
@@ -27,6 +27,10 @@
 
 {"title":"သံဃာဂုဏ်တော် ၉ ပါး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"မေတ္တသုတ် လင်္ကာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%9E%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%AC.txt",
 "category":"Action"},
 
 {"title":"ဂုဏ်တော်ကွန်ချာ","desc":"1234",
