@@ -1,4 +1,5 @@
 <h5 style="text-align:center">ငါးပါးသီလဆောက်တည်ပုံ</h5>
+<strong><p style="text-align:center">သီလတောင်း</p></strong>
 <br>
 <strong>အဟံ ဘန္တေ တိသရဏေန သဟ</strong><br>
 (အဟံ ဘန်တေ တိသရနေန သဟ)<br>
