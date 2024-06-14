@@ -1,33 +1,33 @@
 <h4 style="text-align:center">ဘုရားဂုဏ်တော် ၉ ပါး</h4><br>
 
-<strong style="text-align:center">ဣတိပိ သော ဘဂဝါ</strong><br>
+<h5 style="text-align:center">ဣတိပိ သော ဘဂဝါ</h5>
 <p style="text-align:center">(အိတိပိ သော ဘဂဝါ)</p><br>
 
-<strong style="text-align:center">၁။ အရဟံ</strong><br>
+<h5 style="text-align:center">၁။ အရဟံ</h5>
 <p style="text-align:center">(အရဟံ)</p><br>
 
-<strong style="text-align:center">၂။ သမ္မာသမ္ဗုဒ္ဓေါ</strong><br>
+<h4 style="text-align:center">၂။ သမ္မာသမ္ဗုဒ္ဓေါ</h5>
 <p style="text-align:center">(သမ်မာသံဗုတ်ဓော)</p><br>
 
-<strong style="text-align:center">၃။ ဝိဇ္ဇာစရာဏသမ္ပန္နော</strong><br>
+<h5 style="text-align:center">၃။ ဝိဇ္ဇာစရာဏသမ္ပန္နော</h5>
 <p style="text-align:center">(ဝိတ်ဇာစရဏသမ်ပန်နော)</p><br>
 
-<strong style="text-align:center">၄။ သုဂတော</strong><br>
+<h5 style="text-align:center">၄။ သုဂတော</h5>
 <p style="text-align:center">(သုဂတော)</p><br>
 
-<strong style="text-align:center">၅။ လောကဝိဒူ</strong><br>
+<h5 style="text-align:center">၅။ လောကဝိဒူ</h5>
 <p style="text-align:center">(လောကဝိဒူ)</p><br>
 
-<strong style="text-align:center">၆။ အနုတ္တရော ပုရိသ ဒမ္မသာရထိ</strong><br>
+<h5 style="text-align:center">၆။ အနုတ္တရော ပုရိသ ဒမ္မသာရထိ</h5>
 <p style="text-align:center">(အနုတ်တရော ပုရိသ ဒမ်မသာရထိ)</p><br>
 
-<strong style="text-align:center">၇။ သတ္တာ ဒေဝမနုဿနံ</strong><br>
+<h5 style="text-align:center">၇။ သတ္တာ ဒေဝမနုဿနံ</h5>
 <p style="text-align:center">(သတ်တာ ဒေဝမနုတ်သာနံ)</p><br>
 
-<strong style="text-align:center">၈။ ဗုဒ္ဓေါ</strong><br>
+<h5 style="text-align:center">၈။ ဗုဒ္ဓေါ</h5>
 <p style="text-align:center">(ဗုတ်ဓော)</p><br>
 
-<strong style="text-align:center">၉။ ဘဂဝါ။</strong><br>
+<h5 style="text-align:center">၉။ ဘဂဝါ။</h5>
 <p style="text-align:center">(ဘဂဝါ)</p><br><br>
 
 <h4 style="text-align:center">မြန်မာပြန်</h4>
