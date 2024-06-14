@@ -1,7 +1,7 @@
 <h4 style="text-align:center">ဘုရားဂုဏ်တော် ၉ ပါး</h4><br>
 
 <h5 style="text-align:center">ဣတိပိ သော ဘဂဝါ</h5>
-<p style="text-align:center">(အိတိပိ သော ဘဂဝါ)</p><br>
+<strong><p style="text-align:center">(အိတိပိ သော ဘဂဝါ)</p></strong><br>
 
 <h5 style="text-align:center">၁။ အရဟံ</h5>
 <p style="text-align:center">(အရဟံ)</p><br>
