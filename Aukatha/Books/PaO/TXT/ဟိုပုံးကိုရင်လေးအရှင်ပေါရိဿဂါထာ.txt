@@ -10,7 +10,7 @@
 <p style="text-align:center">(ဓမ်မံနမောဗုဒ်ဓါယျ အရဟံ အရဟံဘဂဝါ)</p>
 <br>
 <h5 style="text-align:center">သမ္မာသမ္ဗုဒ္ဓါ အနန္တဂုဏော အနန္တညာဏော၊</h5>
-<p style="text-align:center">(သမ်မသမ်ဗုဒ်ဓါ မနုန်တဂုဏော အနန်တညာဏော)</p>
+<p style="text-align:center">(သမ်မသမ်ဗုဒ်ဓါ အနုန်တဂုဏော အနန်တညာဏော)</p>
 <br>
 <h5 style="text-align:center">အနန္တောဟိ ဂုဏေ စက္ကေဟိ (မံ/တံ)</h5>
 <p style="text-align:center">(အနနေတာဟိ ဂုဏေ စကေကဟိ (မံ/တံ))</p>
