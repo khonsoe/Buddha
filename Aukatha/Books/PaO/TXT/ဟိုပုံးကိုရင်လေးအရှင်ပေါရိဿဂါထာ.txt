@@ -13,7 +13,7 @@
 <p style="text-align:center">(သမ်မသမ်ဗုဒ်ဓါ အနုန်တဂုဏော အနန်တညာဏော)</p>
 <br>
 <h5 style="text-align:center">အနန္တောဟိ ဂုဏေ စက္ကေဟိ (မံ/တံ)</h5>
-<p style="text-align:center">(အနနေတာဟိ ဂုဏေ စကေကဟိ (မံ/တံ))</p>
+<p style="text-align:center">(အနနေတာဟိ ဂုဏေ စကေကဟိ) (မံ/တံ)</p>
 <br>
 <h5 style="text-align:center">ရက္ခန္တုအရဟံ</h5>
 <p style="text-align:center">(ရက်ခန်တုအရဟံ)</p>
