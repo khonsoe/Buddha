@@ -4,15 +4,20 @@
 <h4 style="text-align:center">ဘဒ္ဒကပ်ကမ္ဘာ မြတ်ဂါထာ</h4>
 <p style="text-align:center">*************************</p>
 <h5 style="text-align:center">အရဟံကာရောစ၊ ဗုဒ္ဓရူပံ အရဟံသုခံ ကုသလံ၊</h5>
-
+<p style="text-align:center">(အရဟံကာရောစ၊ ဗုဒ်ဓရူပံ အရဟံသုခံ ကုသလံ)</p>
+<br>
 <h5 style="text-align:center">ဓမ္မံနမောဗုဒ္ဓါယျ အရဟံ အရဟံဘဂဝါ</h5>
-
+<p style="text-align:center">(ဓမ်မံနမောဗုဒ်ဓါယျ အရဟံ အရဟံဘဂဝါ)</p>
+<br>
 <h5 style="text-align:center">သမ္မာသမ္ဗုဒ္ဓါ အနန္တဂုဏော အနန္တညာဏော၊</h5>
-
+<p style="text-align:center">(သမ်မသမ်ဗုဒ်ဓါ မနုန်တဂုဏော အနန်တညာဏော)</p>
+<br>
 <h5 style="text-align:center">အနန္တောဟိ ဂုဏေ စက္ကေဟိ (မံ/တံ)</h5>
-
+<p style="text-align:center">(အနနေတာဟိ ဂုဏေ စကေကဟိ (မံ/တံ))</p>
+<br>
 <h5 style="text-align:center">ရက္ခန္တုအရဟံ</h5>
-
+<p style="text-align:center">(ရက်ခန်တုအရဟံ)</p>
+<br>
 
 <h4 style="text-align:center">ရှောင်ရန် ဆောင်ရန် ပါဠိ+မြန်မာပြန်</h4>
 <p style="text-align:center">*********************************</p>
