@@ -1,7 +1,7 @@
 <h1>Aukatha Buddha App</h1>
-<strong>App Developer :</strong>Khun Arr
-<strong>Developer By:</strong>KHUN SOE ZAW THU
-<strong>App icon by:</strong>KHUN SOE ZAW THU
+<strong>App Developer :</strong>Khun Arr<br>
+<strong>Developer By:</strong>KHUN SOE ZAW THU<br>
+<strong>App icon by:</strong>KHUN SOE ZAW THU<B>Khun Soe
 
 
 ![](https://github.com/khonsoe/Buddha/blob/main/Buddha%20App%20icon/Buddha4.png)
