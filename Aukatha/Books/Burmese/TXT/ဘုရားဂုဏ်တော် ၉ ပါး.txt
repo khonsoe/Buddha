@@ -1,5 +1,5 @@
 <h4 style="text-align:center">ဘုရားဂုဏ်တော် ၉ ပါး</h4>
-<p style="text-align:center">************************</p>
+<p style="text-align:center">***********************</p>
 
 <h5 style="text-align:center">ဣတိပိ သော ဘဂဝါ</h5>
 <p style="text-align:center">(အိတိပိ သော ဘဂဝါ)</p><br>
