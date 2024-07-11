@@ -8,67 +8,35 @@
 }],
 
 "Home":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး စုတောင်း","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.txt",
+  {"title":"ความรัก","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81.txt",
   "category":"Action"},
 
-{"title":"ဘုရား ဂုဏ်တော် (၉) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.txt",
+{"title":"ความชอบ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt",
 "category":"Action"},
     
-{"title":"တရား ဂုဏ်တော် (၆) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA(%E1%81%86)%E1%80%95%E1%80%AB%E1%80%B8.txt",
+{"title":"ความรักกับความชอบต่างกันยังไง","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87.txt",
 "category":"Action"},
 
-{"title":"သံဃာ ဂုဏ်တော် (၉) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.txt",
+{"title":"ความรักที่ดีควรเป็นอย่างไร","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3.txt",
 "category":"Action"},
 
-{"title":"မေတ္တသုတ် လင်္ကာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%9E%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%AC.txt",
+{"title":"นิยามของความรักคืออะไร","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.txt",
 "category":"Action"},
 
-{"title":"ပဋ္ဌာန်း (၂၄) ပစ္စည်း မေတ္တာပို့","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%95%E1%80%8B%E1%80%B9%E1%80%8C%E1%80%AC%E1%80%94%E1%80%BA%E1%80%B8(%E1%81%82%E1%81%84)%E1%80%95%E1%80%85%E1%80%B9%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.txt",
-"category":"Action"},
-
-{"title":"အရပ်ဆယ်မျက်နှာ မေတ္တာပို့","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A1%E1%80%9B%E1%80%95%E1%80%BA%E1%80%86%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.txt",
-"category":"Action"},
-
-{"title":"ငါးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%84%E1%80%AB%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
-"category":"Action"},
-
-{"title":"ရှစ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9B%E1%80%BE%E1%80%85%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
-"category":"Action"},
-
-{"title":"ကိုးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
-"category":"Action"},
-
-{"title":"ဆယ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%86%E1%80%9A%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
-"category":"Action"},
-
-{"title":"ဂုဏ်တော်ကွန်ချာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AC.txt",
-"category":"Action"},
-
-{"title":"နမက္ကာရ ဘုရားရှိခိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%94%E1%80%99%E1%80%80%E1%80%B9%E1%80%80%E1%80%AC%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%81%E1%80%AD%E1%80%AF%E1%80%B8.txt",
-"category":"Action"},
-
-{"title":"ရတနာရွှေချိုင့်ဂါထာ ရွတ်ဖတ်ရခြင်းအကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9B%E1%80%90%E1%80%94%E1%80%AC%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%B7%E1%80%BA.txt",
+{"title":"สัญญาณของความรักที่ดี มีดังนี้","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%20%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89.txt",
 "category":"Action"}],
 
 "Book":[  
-  {"title":"ဘုရားကိုးဆူ ဆိုသည်မှာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%B0%E1%80%86%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%8A%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC.txt"},
+  {"title":"ความรัก","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81.txt"},
     
-{"title":"သတ သဟဿာရဟ ဂါထာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%84_%E1%80%9E%E1%80%90%E1%80%9E%E1%80%9F%E1%80%BF%E1%80%AC%E1%80%9B%E1%80%9F%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"}]
+{"title":"นิยามของความรักคืออะไร","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.txt"}]
 }
 
