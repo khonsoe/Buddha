@@ -1,46 +1,196 @@
 {"categories":[
-  {"name":"Home", 
-"image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
+    {"name":"Home", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
 },
-
-{"name":"Book", 
-"image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"  
+{"name":"ပအိုဝ်ႏ", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha4.png"
+},
+{"name":"ဂါထာ", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha5.png"
+},  
+{"name":"ဗေဒင်", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"  
 }],
 
 "Home":[  
-{"title":"ความรัก","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81.txt",
+  {"title":"ဩကာသ ဘုရားရှိခိုး စုတောင်း","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.txt",
+  "category":"Action"},
+
+{"title":"ဘုရား ဂုဏ်တော် (၉) ပါး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.txt",
+"category":"Action"},
+    
+{"title":"တရား ဂုဏ်တော် (၆) ပါး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA(%E1%81%86)%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
 
-{"title":"ความชอบ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%AD%E0%B8%9A.txt",
+{"title":"သံဃာ ဂုဏ်တော် (၉) ပါး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.txt",
 "category":"Action"},
+
+{"title":"မေတ္တသုတ် လင်္ကာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%9E%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%AC.txt",
+"category":"Action"},
+
+{"title":"ပဋ္ဌာန်း (၂၄) ပစ္စည်း မေတ္တာပို့","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%95%E1%80%8B%E1%80%B9%E1%80%8C%E1%80%AC%E1%80%94%E1%80%BA%E1%80%B8(%E1%81%82%E1%81%84)%E1%80%95%E1%80%85%E1%80%B9%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.txt",
+"category":"Action"},
+
+{"title":"အရပ်ဆယ်မျက်နှာ မေတ္တာပို့","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%A1%E1%80%9B%E1%80%95%E1%80%BA%E1%80%86%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.txt",
+"category":"Action"},
+
+{"title":"ငါးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%84%E1%80%AB%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
+"category":"Action"},
+
+{"title":"ရှစ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9B%E1%80%BE%E1%80%85%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
+"category":"Action"},
+
+{"title":"ကိုးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
+"category":"Action"},
+
+{"title":"ဆယ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%86%E1%80%9A%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.txt",
+"category":"Action"},
+
+{"title":"ဂုဏ်တော်ကွန်ချာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AC.txt",
+"category":"Action"},
+
+{"title":"နမက္ကာရ ဘုရားရှိခိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%94%E1%80%99%E1%80%80%E1%80%B9%E1%80%80%E1%80%AC%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%81%E1%80%AD%E1%80%AF%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"ရတနာရွှေချိုင့်ဂါထာ ရွတ်ဖတ်ရခြင်းအကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%9B%E1%80%90%E1%80%94%E1%80%AC%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%B7%E1%80%BA.txt",
+"category":"Action"},
+
+{"title":"ဘုရားကိုးဆူ ဆိုသည်မှာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%B0%E1%80%86%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%8A%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC.txt",
+  "category":"Action"}],
+
   
-{"title":"ความรักกับความชอบต่างกันยังไง","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87.txt",
-"category":"Action"},
+"ပအိုဝ်ႏ":[  
+  {"title":"ဝုဲင်ႏဘုရာꩻ ဩကာသ ပအိုဝ်ႏ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/TXT/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E%E1%80%95%E1%80%A1%E1%80%AD%E1%80%AF%E1%80%9D%E1%80%BA%E1%82%8F.txt"},
 
-{"title":"ความรักที่ดีควรเป็นอย่างไร","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3.txt",
-"category":"Action"},
+{"title":"ငေါဝ်းပသာမေတ္တာႏ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%95%E1%80%9E%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%82%8F.md"},
 
-{"title":"นิยามของความรักคืออะไร","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.txt",
-"category":"Action"},
+{"title":"ငေါဝ်းပူႏဇောႏရိုႏသေႏ ရတနာႏ (၃) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%95%E1%80%B0%E1%82%8F%E1%80%87%E1%80%B1%E1%80%AC%E1%82%8F%E1%80%9B%E1%80%AD%E1%80%AF%E1%82%8F%E1%80%9E%E1%80%B1%E1%82%8F%E1%80%9B%E1%80%90%E1%80%94%E1%80%AC%E1%82%8F(%E1%81%83)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
 
-{"title":"ทำอย่างไรเมื่อรักมาถึงทางตัน","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%99.txt",
-"category":"Action"},
+{"title":"ငေါဝ်းဝုဲင်ႏ သီးလ (၅) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%9D%E1%80%AF%E1%80%B2%E1%80%84%E1%80%BA%E1%82%8F%E1%80%A1%E1%80%AE%E1%80%9E%E1%80%AE%E1%80%B8%E1%80%9C(%E1%81%85)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
 
-{"title":"สัญญาณของความรักที่ดี มีดังนี้","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%20%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89.txt",
-"category":"Action"}],
+{"title":"ငေါဝ်းကွီအီသဉ်သီးလ (၅) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%80%E1%80%BD%E1%80%AE%E1%80%A1%E1%80%AE%E1%80%9E%E1%80%89%E1%80%BA%E1%80%9E%E1%80%AE%E1%80%B8%E1%80%9C(%E1%81%85)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
 
-"Book":[  
-{"title":"ความรัก","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81.txt"},
-  
-{"title":"นิยามของความรักคืออะไร","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Thai/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.txt"}]
+{"title":"ငေါဝ်းဝုဲင်ႏ သီးလ (၈) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%80%B8%E1%80%9D%E1%80%AF%E1%80%B2%E1%80%84%E1%80%BA%E1%82%8F%E1%80%9E%E1%80%AE%E1%80%B8%E1%80%9C(%E1%81%88)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
+
+{"title":"ငေါဝ်ႏကွီအီသဉ်သီႏလ (၈) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%84%E1%80%B1%E1%80%AB%E1%80%9D%E1%80%BA%E1%82%8F%E1%80%80%E1%80%BD%E1%80%AE%E1%80%A1%E1%80%AE%E1%80%9E%E1%80%89%E1%80%BA%E1%80%9E%E1%80%AE%E1%82%8F%E1%80%9C(%E1%81%88)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
+
+{"title":"ဘုရာꩻဂွုဏ်ႏတောႏ (၉) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%EA%A9%BB%E1%80%82%E1%80%BD%E1%80%AF%E1%80%8F%E1%80%BA%E1%82%8F%E1%80%90%E1%80%B1%E1%80%AC%E1%82%8F(%E1%81%89)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
+
+{"title":"တရာꩻဂွုဏ်ႏတောႏ (၆) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%90%E1%80%9B%E1%80%AC%EA%A9%BB%E1%80%82%E1%80%BD%E1%80%AF%E1%80%8F%E1%80%BA%E1%82%8F%E1%80%90%E1%80%B1%E1%80%AC%E1%82%8F(%E1%81%86)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
+
+{"title":"သံင်္ဃာႏဂွုဏ်ႏတောႏ (၉) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%9E%E1%80%B6%E1%80%84%E1%80%BA%E1%80%B9%E1%80%83%E1%80%AC%E1%82%8F%E1%80%82%E1%80%BD%E1%80%AF%E1%80%8F%E1%80%BA%E1%82%8F%E1%80%90%E1%80%B1%E1%80%AC%E1%82%8F(%E1%81%89)%E1%80%95%E1%80%AB%EA%A9%BB.md"},
+
+{"title":"ရောင်ႏတောႏသူပါꩻဝုဲင်ႏဘုရာꩻ/ပင်ꩻဘုရာꩻ (၁)","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/MD/%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%82%8F%E1%80%90%E1%80%B1%E1%80%AC%E1%82%8F%E1%80%9E%E1%80%B0%E1%80%95%E1%80%AB%EA%A9%BB%E1%80%9D%E1%80%AF%E1%80%B2%E1%80%84%E1%80%BA%E1%82%8F%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%EA%A9%BB%E1%80%95%E1%80%84%E1%80%BA%EA%A9%BB%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%EA%A9%BB(%E1%81%81).md"},
+
+{"title":"ငေါဝ်းပူႏဇောႏရိုႏသေႏ ရတနာႏ (၃) ပါꩻ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+
+
+"ဂါထာ":[  
+  {"title":"ဘဒ္ဒကပ်ကမ္ဘာ မြတ်ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/TXT/%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%95%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%9B%E1%80%84%E1%80%BA%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%95%E1%80%B1%E1%80%AB%E1%80%9B%E1%80%AD%E1%80%BF%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"သမ္ဗုဒ္ဓေ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%81_%E1%80%9E%E1%80%99%E1%80%B9%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%B1%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"သဗ္ဗမင်္ဂလာ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%82_%E1%80%9E%E1%80%97%E1%80%B9%E1%80%97%E1%80%99%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%9C%E1%80%AC%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"ဘုရားကိုးဆူလိုတရ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/PaO/TXT/%E1%80%9E%E1%80%AC%E1%80%99%E1%80%8A%E1%80%86%E1%80%9B%E1%80%AC%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%8F%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%B0%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%90%E1%80%9B%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"အဋ္ဌာနမေတံ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%83_%E1%80%A1%E1%80%8B%E1%80%B9%E1%80%8C%E1%80%AC%E1%80%94%E1%80%99%E1%80%B1%E1%80%90%E1%80%B6%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"သတ သဟဿာရဟ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%84_%E1%80%9E%E1%80%90%E1%80%9E%E1%80%9F%E1%80%BF%E1%80%AC%E1%80%9B%E1%80%9F%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"နတ်ပင့် ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%85_%E1%80%94%E1%80%90%E1%80%BA%E1%80%95%E1%80%84%E1%80%B7%E1%80%BA%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"နတ်စည်းချ ဂါထာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Burmese/TXT/%E1%81%86_%E1%80%94%E1%80%90%E1%80%BA%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.txt"},
+
+{"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+
+
+"ဗေဒင်":[
+  {"title":"လက်ထပ်ထိမ်းမြားရန် သိမှတ်ဖွယ်ရာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%91%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%94%E1%80%BA%20%E1%80%9E%E1%80%AD%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%96%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%AC.md"},
+
+{"title":"တနင်္ဂနွေနေ့အတွက် ဗေဒင်ဟောကိန်း 2024","desc":"ဗေဒင်ဟောကိန်း 2024",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
+
+{"title":"တနင်္လာနေ့အတွက် ဗေဒင်ဟောကိန်း 2024","desc":"ဗေဒင်ဟောကိန်း 2024",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
+
+{"title":"အင်္ဂါနေ့အတွက် ဗေဒင်ဟောကိန်း 2024","desc":"ဗေဒင်ဟောကိန်း 2024",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%3E%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
+
+{"title":"ဗုဒ္ဓဟူးနေ့အတွက် ဗေဒင်ဟောကိန်း 2024","desc":"ဗေဒင်ဟောကိန်း 2024",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
+
+{"title":"ကြာသပတေးနေ့အတွက် ဗေဒင်ဟောကိန်း 2024","desc":"ဗေဒင်ဟောကိန်း 2024",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
+
+{"title":"တနင်္ဂနွေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
+
+{"title":"တနင်္လာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
+
+{"title":"အင်္ဂါနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
+
+{"title":"ဗုဒ္ဓဟူးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
+
+{"title":"ကြာသပတေးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
+
+{"title":"သောကြာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BC%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md"},
+
+{"title":"စနေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%85%E1%80%94%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md"},
+
+{"title":"ကလေး အမည်ပေး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%94%E1%80%AC%E1%80%99%E1%80%8A%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8.md"},
+
+{"title":"လက်ဖဝါးပေါ်မှာ ဂမ္ဘီရကြက်ခြေပါလာသူ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC%E1%80%82%E1%80%99%E1%80%B9%E1%80%98%E1%80%AE%E1%80%9B%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%B1%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%B0.md"},
+
+{"title":"မွေးနေ့တို့ရဲ့ချစ်စရာ အလေ့အကျင့်များအကြောင်း","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%85%E1%80%9B%E1%80%AC%20%E1%80%A1%E1%80%9C%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%80%E1%80%BB%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.md"},
+
+{"title":"နေ့နံတွေအကြောင်းသိကောင်းစရာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%94%E1%80%B1%E1%80%B7%E1%80%94%E1%80%B6%E1%80%90%E1%80%BD%E1%80%B1%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%AD%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%85%E1%80%9B%E1%80%AC.md"}]
 }
 
