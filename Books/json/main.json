@@ -11,7 +11,7 @@
 {"name":"ဗေဒင်", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
 },   
-{"name":"လိုꩻပေႏတငယ်ႏနာႏ", 
+{"name":"လိုꩻပေႏ", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/BabyHealth.png"  
 }],
 
@@ -198,5 +198,5 @@
 
 "လိုꩻပေႏတငယ်ႏနာႏ":[
   {"title":"အကျောင်ꩻနိဒါန်း","desc":"1234",
-"tlink":"https://github.com/khonsoe/Buddha/blob/main/Books/BabyHealth/%E1%80%A1%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%EA%A9%BB%E1%80%94%E1%80%AD%E1%80%92%E1%80%AB%E1%80%94%E1%80%BA%E1%80%B8.md"}]
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/BabyHealth/%E1%80%A1%E1%80%80%E1%80%BB%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%EA%A9%BB%E1%80%94%E1%80%AD%E1%80%92%E1%80%AB%E1%80%94%E1%80%BA%E1%80%B8.md"}]
 }
