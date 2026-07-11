@@ -1,5 +1,8 @@
 {"categories":[
-    {"name":"Home", 
+    {"name":"ဗေဒင်", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
+},
+{"name":"ဗုဒ္ဓ", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
 },
 {"name":"ပအိုဝ်ႏ", 
@@ -7,74 +10,180 @@
 },
 {"name":"ဂါထာ", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha5.png"
-},
-{"name":"ဗေဒင်", 
-  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"
 },   
 {"name":"လိုꩻပေႏ", 
   "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/BabyHealth.png"  
 }],
 
-"Home":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး စုတောင်း","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.md",
+"ဗေဒင်":[  
+  {"title":"လက်ထပ်ထိမ်းမြားရန် သိမှတ်ဖွယ်ရာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%91%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%94%E1%80%BA%20%E1%80%9E%E1%80%AD%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%96%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%AC.md",
   "category":"Action"},
 
+{"title":"တနင်္ဂနွေနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"တနင်္လာနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"အင်္ဂါနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%3E%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"ဗုဒ္ဓဟူးနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"ကြာသပတေးနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt",
+"category":"Action"},
+
+{"title":"တနင်္ဂနွေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md",
+"category":"Action"},
+
+{"title":"တနင်္လာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md",
+"category":"Action"},
+
+{"title":"ဗုဒ္ဓဟူးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md",
+"category":"Action"},
+
+{"title":"ကြာသပတေးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md",
+"category":"Action"},
+
+{"title":"သောကြာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BC%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"စနေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%85%E1%80%94%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"ကလေး အမည်ပေး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%94%E1%80%AC%E1%80%99%E1%80%8A%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8.md",
+"category":"Action"},
+
+
+{"title":"တနင်္ဂနွေ နှင့် တနင်္ဂနွေ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/1-1_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1.md",
+"category":"Action"},
+
+{"title":"တနင်္ဂနွေ နှင့် စနေ လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/1-7_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%B2%E1%80%B7%20%E1%80%85%E1%80%94%E1%80%B1.md",
+"category":"Action"},
+
+{"title":"တနင်္လာ နှင့် အင်္ဂါ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/2-3_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB.md",
+"category":"Action"},
+
+{"title":"တနင်္ဂနွေ နှင့် စနေသားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/2-7%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%85%E1%80%94%E1%80%B1.md",
+"category":"Action"},
+
+
+{"title":"အင်္ဂါနေ့ဖွားနှင့် တနင်္ဂနွေနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-1_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါနေ့ဖွားနှင့် တနင်္လာနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-2_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါနေ့ဖွားနှင့် အင်္ဂါနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-3_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါ နှင့် အင်္ဂါ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-3%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါ နှင့် ဗုဒ္ဓဟူး သားသမီး ပေါင်းဖက်မိရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-4%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါနေ့ဖွားနှင့် သောကြာနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-6_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BC%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"အင်္ဂါ နှင့် စနေသားသမီး ပေါင်းဖက်မိရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-6%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%85%E1%80%94%E1%80%B1%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"စနေနေ့ နှင့် တနင်္ဂနွေ လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/7-1_%E1%80%85%E1%80%94%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%20%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1.md",
+"category":"Action"},
+
+{"title":"စနေ နှင့်တနင်္လာ သားသမီး လက်တွဲ့မယ်ဆိုရင်","desc":"ပေါင်းဖက်",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/7-2_%E1%80%85%E1%80%94%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC.md",
+"category":"Action"},
+
+{"title":"လက်ဖဝါးပေါ်မှာ ဂမ္ဘီရကြက်ခြေပါလာသူ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC%E1%80%82%E1%80%99%E1%80%B9%E1%80%98%E1%80%AE%E1%80%9B%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%B1%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%B0.md",
+"category":"Action"},
+
+{"title":"မွေးနေ့တို့ရဲ့ချစ်စရာ အလေ့အကျင့်များအကြောင်း","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%85%E1%80%9B%E1%80%AC%20%E1%80%A1%E1%80%9C%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%80%E1%80%BB%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"နေနံတွေ အကြောင်းသိကောင်းစရာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%94%E1%80%B1%E1%80%B7%E1%80%94%E1%80%B6%E1%80%90%E1%80%BD%E1%80%B1%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%AD%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%85%E1%80%9B%E1%80%AC.md",
+  "category":"Action"}],
+
+
+"ဗုဒ္ဓ":[
+  {"title":"ဩကာသ ဘုရားရှိခိုး စုတောင်း","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%A9%E1%80%80%E1%80%AC%E1%80%9E.md"},
+
 {"title":"ဘုရား ဂုဏ်တော် (၉) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.md",
-"category":"Action"},
-    
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%20%E1%81%89%20%E1%80%95%E1%80%AB%E1%80%B8.md"},
+   
 {"title":"တရား ဂုဏ်တော် (၆) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA(%E1%81%86)%E1%80%95%E1%80%AB%E1%80%B8.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA(%E1%81%86)%E1%80%95%E1%80%AB%E1%80%B8.md"},
 
 {"title":"သံဃာ ဂုဏ်တော် (၉) ပါး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9E%E1%80%B6%E1%80%83%E1%80%AC%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%81%89%E1%80%95%E1%80%AB%E1%80%B8.md"},
 
 {"title":"မေတ္တသုတ် လင်္ကာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%9E%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%AC.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%9E%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B9%E1%80%80%E1%80%AC.md"},
 
 {"title":"ပဋ္ဌာန်း (၂၄) ပစ္စည်း မေတ္တာပို့","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%95%E1%80%8B%E1%80%B9%E1%80%8C%E1%80%AC%E1%80%94%E1%80%BA%E1%80%B8(%E1%81%82%E1%81%84)%E1%80%95%E1%80%85%E1%80%B9%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%95%E1%80%8B%E1%80%B9%E1%80%8C%E1%80%AC%E1%80%94%E1%80%BA%E1%80%B8(%E1%81%82%E1%81%84)%E1%80%95%E1%80%85%E1%80%B9%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.md"},
 
 {"title":"အရပ်ဆယ်မျက်နှာ မေတ္တာပို့","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%A1%E1%80%9B%E1%80%95%E1%80%BA%E1%80%86%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%A1%E1%80%9B%E1%80%95%E1%80%BA%E1%80%86%E1%80%9A%E1%80%BA%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%90%E1%80%B9%E1%80%90%E1%80%AC%E1%80%95%E1%80%AD%E1%80%AF%E1%80%B7.md"},
 
 {"title":"ငါးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%84%E1%80%AB%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%84%E1%80%AB%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md"},
 
 {"title":"ရှစ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9B%E1%80%BE%E1%80%85%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9B%E1%80%BE%E1%80%85%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md"},
 
 {"title":"ကိုးပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md"},
 
 {"title":"ဆယ်ပါးသီလ ဆောက်တည်ပုံ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%86%E1%80%9A%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%86%E1%80%9A%E1%80%BA%E1%80%95%E1%80%AB%E1%80%B8%E1%80%9E%E1%80%AE%E1%80%9C%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%90%E1%80%8A%E1%80%BA%E1%80%95%E1%80%AF%E1%80%B6.md"},
 
 {"title":"ဂုဏ်တော်ကွန်ချာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AC.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%82%E1%80%AF%E1%80%8F%E1%80%BA%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AC.md"},
 
 {"title":"နမက္ကာရ ဘုရားရှိခိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%94%E1%80%99%E1%80%80%E1%80%B9%E1%80%80%E1%80%AC%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%81%E1%80%AD%E1%80%AF%E1%80%B8.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%94%E1%80%99%E1%80%80%E1%80%B9%E1%80%80%E1%80%AC%E1%80%9B%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%AD%E1%80%81%E1%80%AD%E1%80%AF%E1%80%B8.md"},
 
 {"title":"ရတနာရွှေချိုင့်ဂါထာ ရွတ်ဖတ်ရခြင်းအကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9B%E1%80%90%E1%80%94%E1%80%AC%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%B7%E1%80%BA.md",
-"category":"Action"},
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%9B%E1%80%90%E1%80%94%E1%80%AC%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%B7%E1%80%BA.md"},
 
 {"title":"ဘုရားကိုးဆူ ဆိုသည်မှာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%B0%E1%80%86%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%8A%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC.md",
-  "category":"Action"}],
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Burmese/MD/%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%86%E1%80%B0%E1%80%86%E1%80%AD%E1%80%AF%E1%80%9E%E1%80%8A%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC.md"}],
 
   
 "ပအိုဝ်ႏ":[  
@@ -143,100 +252,6 @@
 {"title":"နတ်စည်းချ ဂါထာ","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Katha/MD/%E1%81%86_%E1%80%94%E1%80%90%E1%80%BA%E1%80%85%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%81%E1%80%BB%E1%80%82%E1%80%AB%E1%80%91%E1%80%AC.md"}],
 
-
-"ဗေဒင်":[
-  {"title":"လက်ထပ်ထိမ်းမြားရန် သိမှတ်ဖွယ်ရာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%91%E1%80%AD%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%9B%E1%80%94%E1%80%BA%20%E1%80%9E%E1%80%AD%E1%80%99%E1%80%BE%E1%80%90%E1%80%BA%E1%80%96%E1%80%BD%E1%80%9A%E1%80%BA%E1%80%9B%E1%80%AC.md"},
-
-{"title":"တနင်္ဂနွေနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
-
-{"title":"တနင်္လာနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%20%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%20%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
-
-{"title":"အင်္ဂါနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%3E%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
-
-{"title":"ဗုဒ္ဓဟူးနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
-
-{"title":"ကြာသပတေးနေ့အတွက် ဗေဒင်ဟောကိန်း 2026","desc":"ဗေဒင်ဟောကိန်း 2026",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8%E1%80%97%E1%80%B1%E1%80%92%E1%80%84%E1%80%BA%E1%80%9F%E1%80%B1%E1%80%AC%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8.txt"},
-
-{"title":"တနင်္ဂနွေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
-
-{"title":"တနင်္လာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
-
-{"title":"အင်္ဂါနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
-
-{"title":"ဗုဒ္ဓဟူးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
-
-{"title":"ကြာသပတေးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA.md"},
-
-{"title":"သောကြာနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BC%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md"},
-
-{"title":"စနေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%85%E1%80%94%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%20%E1%80%A1%E1%80%AD%E1%80%99%E1%80%BA%E1%80%91%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%95%E1%80%BC%E1%80%85%E1%80%BA%E1%80%A1%E1%80%80%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8.md"},
-
-{"title":"ကလေး အမည်ပေး","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%80%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%94%E1%80%AC%E1%80%99%E1%80%8A%E1%80%BA%E1%80%95%E1%80%B1%E1%80%B8.md"},
-
-
-{"title":"တနင်္ဂနွေ နှင့် တနင်္ဂနွေ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/1-1_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1.md"},
-
-{"title":"တနင်္ဂနွေ နှင့် စနေ လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/1-7_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%B2%E1%80%B7%20%E1%80%85%E1%80%94%E1%80%B1.md"},
-
-{"title":"တနင်္လာ နှင့် အင်္ဂါ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/2-3_%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB.md"},
-
-{"title":"တနင်္ဂနွေ နှင့် စနေသားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/2-7%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%85%E1%80%94%E1%80%B1.md"},
-
-
-{"title":"အင်္ဂါနေ့ဖွားနှင့် တနင်္ဂနွေနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-1_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md"},
-
-{"title":"အင်္ဂါနေ့ဖွားနှင့် တနင်္လာနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-2_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md"},
-
-{"title":"အင်္ဂါနေ့ဖွားနှင့် အင်္ဂါနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-3_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md"},
-
-{"title":"အင်္ဂါ နှင့် အင်္ဂါ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-3%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB.md"},
-
-{"title":"အင်္ဂါ နှင့် ဗုဒ္ဓဟူး သားသမီး ပေါင်းဖက်မိရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-4%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%E1%80%97%E1%80%AF%E1%80%92%E1%80%B9%E1%80%93%E1%80%9F%E1%80%B0%E1%80%B8.md"},
-
-{"title":"အင်္ဂါနေ့ဖွားနှင့် သောကြာနေ့ဖွား ဆက်ဆံရေး","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-6_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%9E%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BC%E1%80%AC%E1%80%94%E1%80%B1%E1%80%B7%E1%80%96%E1%80%BD%E1%80%AC%E1%80%B8.md"},
-
-{"title":"အင်္ဂါ နှင့် စနေသားသမီး ပေါင်းဖက်မိရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/3-6%E1%80%A1%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%AB%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%85%E1%80%94%E1%80%B1%E1%80%9E%E1%80%AC%E1%80%B8%E1%80%9E%E1%80%99%E1%80%AE%E1%80%B8.md"},
-
-
-{"title":"စနေနေ့ နှင့် တနင်္ဂနွေ လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/7-1_%E1%80%85%E1%80%94%E1%80%B1%E1%80%94%E1%80%B1%E1%80%B7%20%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%94%E1%80%BD%E1%80%B1.md"},
-
-{"title":"စနေ နှင့်တနင်္လာ သားသမီး လက်တွဲ့မယ်ဆိုရင်","desc":"ပေါင်းဖက်",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/7-2_%E1%80%85%E1%80%94%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC.md"},
-
-{"title":"လက်ဖဝါးပေါ်မှာ ဂမ္ဘီရကြက်ခြေပါလာသူ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC%E1%80%82%E1%80%99%E1%80%B9%E1%80%98%E1%80%AE%E1%80%9B%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%B1%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%B0.md"},
-
-{"title":"မွေးနေ့တို့ရဲ့ချစ်စရာ အလေ့အကျင့်များအကြောင်း","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%85%E1%80%9B%E1%80%AC%20%E1%80%A1%E1%80%9C%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%80%E1%80%BB%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.md"},
-
-{"title":"နေ့နံတွေအကြောင်းသိကောင်းစရာ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%94%E1%80%B1%E1%80%B7%E1%80%94%E1%80%B6%E1%80%90%E1%80%BD%E1%80%B1%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%AD%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%85%E1%80%9B%E1%80%AC.md"}],
 
 "လိုꩻပေႏ":[
   {"title":"အကျောင်ꩻနိဒါန်း","desc":"1234",
