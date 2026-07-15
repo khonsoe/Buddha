@@ -53,7 +53,6 @@
 "category":"Action"},
 
 
-
 {"title":"တနင်္ဂနွေနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"အိမ်ထောင်ရေး အပြစ်အကျိုး",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/TXT/1_Sunday_Marriage.txt",
 "category":"Action"},
@@ -70,6 +69,10 @@
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/TXT/4_Wednesday_Marriage.txt",
 "category":"Action"},
 
+{"title":"ရာဟုနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"အိမ်ထောင်ရေး အပြစ်အကျိုး",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/TXT/Rahuday_Marriage.txt",
+"category":"Action"},
+
 {"title":"ကြာသပတေးနေ့ဖွား အိမ်ထောင်ရေး အပြစ်အကျိုး","desc":"အိမ်ထောင်ရေး အပြစ်အကျိုး",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/TXT/5_Thursday_Marriage.txt",
 "category":"Action"},
@@ -83,10 +86,21 @@
 "category":"Action"},
 
 
-
 {"title":"ကလေး အမည်ပေး","desc":"Name you baby",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/TXT/Naming_a_baby.txt",
 "category":"Action"},
+
+{"title":"မွေးနေ့တို့ရဲ့ချစ်စရာ အလေ့အကျင့်များအကြောင်း","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%85%E1%80%9B%E1%80%AC%20%E1%80%A1%E1%80%9C%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%80%E1%80%BB%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.md",
+"category":"Action"},
+
+{"title":"လက်ဖဝါးပေါ်မှာ ဂမ္ဘီရကြက်ခြေပါလာသူ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC%E1%80%82%E1%80%99%E1%80%B9%E1%80%98%E1%80%AE%E1%80%9B%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%B1%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%B0.md",
+"category":"Action"},
+
+{"title":"နေနံတွေ အကြောင်းသိကောင်းစရာ","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%94%E1%80%B1%E1%80%B7%E1%80%94%E1%80%B6%E1%80%90%E1%80%BD%E1%80%B1%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9E%E1%80%AD%E1%80%80%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%85%E1%80%9B%E1%80%AC.md",
+  "category":"Action"},
 
 
 {"title":"တနင်္ဂနွေ နှင့် တနင်္ဂနွေ သားသမီး လက်တွဲမယ်ဆိုရင်","desc":"ပေါင်းဖက်",
@@ -136,14 +150,6 @@
 
 {"title":"စနေ နှင့်တနင်္လာ သားသမီး လက်တွဲ့မယ်ဆိုရင်","desc":"ပေါင်းဖက်",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/refs/heads/main/Books/Astrology/MD/7-2_%E1%80%85%E1%80%94%E1%80%B1%20%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA%20%E1%80%90%E1%80%94%E1%80%84%E1%80%BA%E1%80%B9%E1%80%9C%E1%80%AC.md",
-"category":"Action"},
-
-{"title":"လက်ဖဝါးပေါ်မှာ ဂမ္ဘီရကြက်ခြေပါလာသူ","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%9C%E1%80%80%E1%80%BA%E1%80%96%E1%80%9D%E1%80%AB%E1%80%B8%E1%80%95%E1%80%B1%E1%80%AB%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AC%E1%80%82%E1%80%99%E1%80%B9%E1%80%98%E1%80%AE%E1%80%9B%E1%80%80%E1%80%BC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%B1%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%9E%E1%80%B0.md",
-"category":"Action"},
-
-{"title":"မွေးနေ့တို့ရဲ့ချစ်စရာ အလေ့အကျင့်များအကြောင်း","desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Aukatha/Books/Book/%E1%80%99%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7%E1%80%90%E1%80%AD%E1%80%AF%E1%80%B7%E1%80%9B%E1%80%B2%E1%80%B7%E1%80%81%E1%80%BB%E1%80%85%E1%80%BA%E1%80%85%E1%80%9B%E1%80%AC%20%E1%80%A1%E1%80%9C%E1%80%B1%E1%80%B7%E1%80%A1%E1%80%80%E1%80%BB%E1%80%84%E1%80%B7%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%A1%E1%80%80%E1%80%BC%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8.md",
 "category":"Action"},
 
 {"title":"နေနံတွေ အကြောင်းသိကောင်းစရာ","desc":"1234",
